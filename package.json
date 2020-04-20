@@ -1,0 +1,21 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaalalach/udacoffeshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaalalach/udacoffeshop/issues"
+  },
+  "homepage": "https://github.com/hamzaalalach/udacoffeshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
